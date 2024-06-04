@@ -1,0 +1,1 @@
+Indice : Allez à Stage2A et utilisez 'grep'

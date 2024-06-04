@@ -1,0 +1,1 @@
+Indice : Utilisez 'find' pour localiser le fichier 'secret1.txt'

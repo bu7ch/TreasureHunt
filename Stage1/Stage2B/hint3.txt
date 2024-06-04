@@ -1,0 +1,1 @@
+Indice : Utilisez 'cat' pour lire 'secret2.txt'
